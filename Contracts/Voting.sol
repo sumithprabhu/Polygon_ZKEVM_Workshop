@@ -17,8 +17,8 @@ contract Voting {
 
     // Constructor to initialize the contract
     constructor() {
-        addCandidate("Candidate 1");
-        addCandidate("Candidate 2");
+        addCandidate("Biden");
+        addCandidate("Trump");
     }
 
     // Function to add a new candidate
