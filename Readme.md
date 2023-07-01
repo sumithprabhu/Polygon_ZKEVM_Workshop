@@ -13,7 +13,7 @@ Note: Provided faucet gives you eth based upon time, in current situation there 
 
 Note : This would take some time.
 
-- Copy the Voting.sol file from Contracts folder [here]().
+- Copy the Voting.sol file from Contracts folder [here](https://github.com/sumithprabhu/Polygon_ZKEVM_Workshop/blob/main/Contracts/Voting.sol).
 
 - Paste it into Remix IDE [here](https://remix.ethereum.org/).
 
